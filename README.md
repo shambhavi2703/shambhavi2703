@@ -10,10 +10,10 @@
 <h1 style="text-decoration: underline; font-weight: bold;">PROFILES</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shambhavi-vats-656427202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn" width="70" height="40"></a>
-  <a href="https://auth.geeksforgeeks.org/user/coder027"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="70" height="40"></a>
- <a href="https://leetcode.com/shambhavivats27/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LEETCODE" width="70" height="40"></a>
-  <a href="https://open.spotify.com/user/j7x61drnz93bseek8atcmzi0m"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="SPOTIFY" width="70" height="40"></a>
+  <a href="https://www.linkedin.com/in/shambhavi-vats-656427202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn" width="70" height="30"></a>
+  <a href="https://auth.geeksforgeeks.org/user/coder027"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="70" height="30"></a>
+ <a href="https://leetcode.com/shambhavivats27/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LEETCODE" width="70" height="30"></a>
+  <a href="https://open.spotify.com/user/j7x61drnz93bseek8atcmzi0m"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="SPOTIFY" width="70" height="30"></a>
   
 
   
