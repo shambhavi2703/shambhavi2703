@@ -20,8 +20,12 @@
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFA726?style=flat-square&logo=machine-learning&logoColor=black)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-4DB6AC?style=flat-square&logo=deep-learning&logoColor=white)
 ![Data Structures and Algorithms](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-1976D2?style=flat-square)
+![Data Science](https://img.shields.io/badge/-Data%20Science-8E44AD?style=flat-square)
+![EDA](https://img.shields.io/badge/-EDA-27AE60?style=flat-square)
+![NLP](https://img.shields.io/badge/-NLP-3498DB?style=flat-square)
 
 ![Shambhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shambhavi2703&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi2703&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
