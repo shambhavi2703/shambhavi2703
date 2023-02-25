@@ -80,15 +80,16 @@
 
 
 
-
+<p align="center">
 ![Shambhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shambhavi2703&theme=dark&show_icons=true)
 
+</p>
 
 
 
-
-
+<p align="center">
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi2703&layout=compact)
+  </p>
 
 
 
