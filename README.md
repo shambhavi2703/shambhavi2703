@@ -8,8 +8,8 @@
 
 Social Media
 <p align="center">
-  <a href="https://www.linkedin.com/in/shambhavi-vats-656427202/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="LinkedIn" height="30"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/shambhavivats7K"><img src="https://image.flaticon.com/icons/svg/174/174876.svg" alt="Twitter" height="30"></a>
+  <a href="https://www.linkedin.com/in/your-profile-url/"><img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="25" height="25"></a>
+    <a href="https://leetcode.com/shambhavivats27/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width="25" height="25"></a>
 </p>
 
 
@@ -49,6 +49,9 @@ Social Media
   <img src="DATA_SCIENCE_ICON_LINK" alt="Data Science" width="32" height="32">
   <img src="DEEP_LEARNING_ICON_LINK" alt="Deep Learning" width="32" height="32">
   <img src="CLOUD_ICON_LINK" alt="Cloud" width="32" height="32">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PYTORCH" width="32" height="32">
+  
+  
 </p>
 
 
