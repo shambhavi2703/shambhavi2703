@@ -83,9 +83,11 @@
 
 
 
+<p align="center">
+  <p align="center">
+    [![Shambhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shambhavi2703&show_icons=true&theme=radical)](https://github.com/shambhavi2703)
+</p>
 
-
-![Shambhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shambhavi2703&theme=dark&show_icons=true)
 
 
 
