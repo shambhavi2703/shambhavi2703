@@ -8,10 +8,9 @@
 
 ### Social Media
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="LinkedIn" height="30"></a>
+  <a href="https://www.linkedin.com/in/shambhavi-vats-656427202/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="LinkedIn" height="30"></a>
   <a href="https://twitter.com/shambhavivats7K"><img src="https://image.flaticon.com/icons/svg/174/174876.svg" alt="Twitter" height="30"></a>
 </p>
-
 
 
 
