@@ -6,23 +6,13 @@
 
 
 
-### Social Media
+Social Media
 <p align="center">
-  <a href="https://www.linkedin.com/in/shambhavi-vats-656427202/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="LinkedIn" height="30"></a>
+  <a href="https://www.linkedin.com/in/shambhavi-vats-656427202/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="LinkedIn" height="30"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/shambhavivats7K"><img src="https://image.flaticon.com/icons/svg/174/174876.svg" alt="Twitter" height="30"></a>
 </p>
 
 
-
-
-
-### Skills
-<p align="center">
-  <img src="https://image.flaticon.com/icons/svg/2099/2099056.svg" alt="Machine Learning" height="30">
-  <img src="https://image.flaticon.com/icons/svg/919/919825.svg" alt="Data Science" height="30">
-  <img src="https://image.flaticon.com/icons/svg/2965/2965309.svg" alt="Deep Learning" height="30">
-  <img src="https://image.flaticon.com/icons/svg/873/873120.svg" alt="Cloud" height="30">
-</p>
 
 
 
