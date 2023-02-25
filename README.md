@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shambhavi2703
 - 👀 I’m interested in   machine learning
-- 🌱 I’m currently exploring tecchnology
+- 🌱 I’m currently actively seeking internship oppurtunities 
 - 📫 How to reach me shambhavivats2703@gmail.com
 
 <div id="badges">
