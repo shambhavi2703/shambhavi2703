@@ -3,15 +3,11 @@
 - 🌱 I’m currently actively seeking internship oppurtunities 
 - 📫 How to reach me shambhavivats2703@gmail.com
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/shambhavi-vats-656427202/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 ### Social Media
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shambhavi-vats-656427202/" target="_blank"><img src="LINKEDIN_ICON_LINK" alt="LinkedIn" width="32" height="32"></a>
+  <a href="https://www.linkedin.com/in/shambhavi-vats-656427202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="32" height="32"></a>
   <a href="https://twitter.com/shambhavivats7K" target="_blank"><img src="TWITTER_ICON_LINK" alt="Twitter" width="32" height="32"></a>
 </p>
 
