@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me shambhavivats2703@gmail.com
 
-<!---
-shambhavi2703/shambhavi2703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Shambhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shambhavi2703&theme=dark&show_icons=true)
+
+
