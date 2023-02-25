@@ -8,6 +8,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+### Social Media
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shambhavi-vats-656427202/" target="_blank"><img src="LINKEDIN_ICON_LINK" alt="LinkedIn" width="32" height="32"></a>
+  <a href="https://twitter.com/shambhavivats7K" target="_blank"><img src="TWITTER_ICON_LINK" alt="Twitter" width="32" height="32"></a>
+</p>
+
+
 
 
 
@@ -36,12 +44,24 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
 </p>
+### Skills
+
+<p align="center">
+  <img src="MACHINE_LEARNING_ICON_LINK" alt="Machine Learning" width="32" height="32">
+  <img src="DATA_SCIENCE_ICON_LINK" alt="Data Science" width="32" height="32">
+  <img src="DEEP_LEARNING_ICON_LINK" alt="Deep Learning" width="32" height="32">
+  <img src="CLOUD_ICON_LINK" alt="Cloud" width="32" height="32">
+</p>
 
 
 
 
 
 ![Shambhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shambhavi2703&theme=dark&show_icons=true)
+
+
+
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi2703&layout=compact)
