@@ -83,7 +83,7 @@
 
 
 
- ![Shambhavi's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shambhavi2703&theme=radical
+ ![Shambhavi's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shambhavi2703&theme=radical)
 
 
 
