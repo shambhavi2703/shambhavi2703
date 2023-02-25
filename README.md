@@ -4,13 +4,26 @@
 - 📫 How to reach me shambhavivats2703@gmail.com
 
 
-### Social Media
 
+
+### Social Media
 <p align="center">
-  <a href="https://www.linkedin.com/in/shambhavi-vats-656427202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="32" height="32"></a>
-  <a href="https://twitter.com/shambhavivats7K" target="_blank"><img src="TWITTER_ICON_LINK" alt="Twitter" width="32" height="32"></a>
+  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="LinkedIn" height="30"></a>
+  <a href="https://twitter.com/shambhavivats7K"><img src="https://image.flaticon.com/icons/svg/174/174876.svg" alt="Twitter" height="30"></a>
 </p>
 
+
+
+
+
+
+### Skills
+<p align="center">
+  <img src="https://image.flaticon.com/icons/svg/2099/2099056.svg" alt="Machine Learning" height="30">
+  <img src="https://image.flaticon.com/icons/svg/919/919825.svg" alt="Data Science" height="30">
+  <img src="https://image.flaticon.com/icons/svg/2965/2965309.svg" alt="Deep Learning" height="30">
+  <img src="https://image.flaticon.com/icons/svg/873/873120.svg" alt="Cloud" height="30">
+</p>
 
 
 
