@@ -54,7 +54,7 @@
 
 
 </p>
-<h2 style="text-decoration: underline; font-weight: bold;">DATBASE</h2>
+<h2 style="text-decoration: underline; font-weight: bold;">DATABASE</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
