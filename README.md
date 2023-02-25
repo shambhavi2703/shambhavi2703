@@ -8,8 +8,8 @@
 
 Social Media
 <p align="center">
-  <a href="https://www.linkedin.com/in/shambhavi-vats-656427202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn" width="40" height="40"></a>
-    <a href="https://leetcode.com/shambhavivats27/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LEETCODE" width="40" height="40"></a>
+  <a href="https://www.linkedin.com/in/shambhavi-vats-656427202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn" width="60" height="40"></a>
+    <a href="https://leetcode.com/shambhavivats27/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LEETCODE" width="60" height="40"></a>
 </p>
 
 
