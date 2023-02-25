@@ -44,6 +44,10 @@
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
   <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scilearn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  
+ 
   
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -80,16 +84,15 @@
 
 
 
-<p align="center">
+
 ![Shambhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shambhavi2703&theme=dark&show_icons=true)
 
-</p>
 
 
 
-<p align="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi2703&layout=compact)
-  </p>
+  
 
 
 
