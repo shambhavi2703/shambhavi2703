@@ -94,6 +94,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi2703&layout=compact)
   
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi2703)](https://github.com/shambhavi2703/github-readme-stats)
 
 
 
